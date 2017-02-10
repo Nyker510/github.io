@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nyker goto blog</title><link href="https://github.com/Nyker510/github.io/" rel="alternate"></link><link href="https://github.com/Nyker510/github.io/feeds/all.atom.xml" rel="self"></link><id>https://github.com/Nyker510/github.io/</id><updated>2017-02-10T23:00:00-05:00</updated><entry><title>ブログタイトル</title><link href="https://github.com/Nyker510/github.io/0210first_post.html" rel="alternate"></link><published>2017-02-10T23:00:00-05:00</published><updated>2017-02-10T23:00:00-05:00</updated><author><name>yourname</name></author><id>tag:github.com,2017-02-10:/Nyker510/github.io/0210first_post.html</id><summary type="html">&lt;p&gt;ブログの要約&lt;/p&gt;</summary><content type="html">&lt;h1&gt;ブログのタイトル&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;li&gt;List&lt;/li&gt;
+&lt;/ul&gt;</content><category term="pelican"></category><category term="python"></category></entry></feed>
